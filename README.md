@@ -1,12 +1,12 @@
-# CHRONO-Maintenance : Votre Partenaire Expert en Solutions Énergétiques
+# CHRONO-Maintenance : Votre Partenaire Expert en Solutions Énergies et Equipements 
 
 ## Diapositive 1 : Titre
 
-**Titre :** CHRONO-Maintenance : Votre Partenaire Expert en Solutions Énergétiques  
-**Sous-titre :** Performance, Fiabilité et Évolution  
+**Titre :** CHRONO-Maintenance : Votre Partenaire Expert en Solutions Énergies et Equipements 
+**Sous-titre :** Etude, Fiabilité et Évolution  
 
 **Discours :**  
-"Bonjour à tous, et bienvenue. Nous sommes CHRONO-Maintenance, et notre mission est de vous offrir des solutions énergétiques complètes et adaptées, pour garantir la performance, la fiabilité et l'évolution de vos installations. Notre expertise et notre engagement sont au service de votre succès."
+"Bonjour à tous, et bienvenue. Nous sommes CHRONO-Maintenance, et notre mission est de vous offrir des solutions denergies complètes et adaptées, pour garantir la performance, la fiabilité et l'évolution de vos installations. Notre expertise et notre engagement sont au service de votre succès."
 
 ---
 
